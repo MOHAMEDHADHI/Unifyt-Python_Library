@@ -1,0 +1,79 @@
+.editorconfig
+.gitignore
+CHANGELOG.md
+CHECKLIST.md
+CONTRIBUTING.md
+LICENSE
+MANIFEST.in
+Makefile
+README.md
+conftest.py
+pyproject.toml
+pytest.ini
+requirements-dev.txt
+requirements.txt
+run_tests.py
+run_tests.sh
+setup.py
+setup_dev.sh
+test_exceptions_basic.py
+validate.sh
+docs/FEATURES.md
+docs/MIGRATION.md
+docs/PERFORMANCE.md
+docs/api_reference.md
+docs/user_guide.md
+examples/README.md
+examples/advanced_features.py
+examples/array_operations.py
+examples/basic_usage.py
+examples/complete_demo.py
+examples/custom_units.py
+examples/scientific_calculations.py
+final documents/BEGINNER_GUIDE.md
+final documents/DOCUMENTATION_COMPLETE.md
+final documents/EXCEPTIONS_GUIDE.md
+final documents/FINAL_SUMMARY.md
+final documents/INDEX.md
+final documents/PROJECT_COMPLETE.md
+final documents/QUICK_REFERENCE.md
+final documents/UNITS_CATALOG.md
+final documents/WHY_UNIFYT.md
+starter documents/EXCEPTIONS_FINAL_REPORT.md
+starter documents/EXCEPTIONS_README.md
+starter documents/EXCEPTIONS_SUMMARY.md
+starter documents/GETTING_STARTED.md
+starter documents/IMPROVEMENTS_SUMMARY.md
+starter documents/PROJECT_SUMMARY.md
+starter documents/QUICKSTART.md
+starter documents/QUICK_REFERENCE.md
+starter documents/START_HERE.md
+starter documents/UPGRADE_COMPLETE.md
+starter documents/V0.2.0_COMPLETE_SUMMARY.md
+starter documents/VERSION_0.2.0_RELEASE.md
+tests/__init__.py
+tests/conftest.py
+tests/test_constants.py
+tests/test_context.py
+tests/test_dimensions.py
+tests/test_quantity.py
+tests/test_serialization.py
+tests/test_unit.py
+tests/test_unit_registry.py
+tests/test_utils.py
+unifyt/__init__.py
+unifyt/constants.py
+unifyt/context.py
+unifyt/dimensions.py
+unifyt/exceptions.py
+unifyt/py.typed
+unifyt/quantity.py
+unifyt/serialization.py
+unifyt/unit.py
+unifyt/unit_registry.py
+unifyt/utils.py
+unifyt.egg-info/PKG-INFO
+unifyt.egg-info/SOURCES.txt
+unifyt.egg-info/dependency_links.txt
+unifyt.egg-info/requires.txt
+unifyt.egg-info/top_level.txt
