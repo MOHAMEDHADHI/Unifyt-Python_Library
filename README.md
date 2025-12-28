@@ -152,7 +152,7 @@ Check out the `examples/` directory for more usage examples:
 
 ```bash
 # Clone the repository
-git clone https://github.com/MEERAN2314/unifyt.git
+git clone https://github.com/MOHAMEDHADHI/unifyt.git
 cd unifyt
 
 # Create virtual environment
@@ -278,3 +278,4 @@ This library is inspired by and builds upon the excellent work of:
 ## Changelog
 
 See [CHANGELOG.md](CHANGELOG.md) for version history.
+
